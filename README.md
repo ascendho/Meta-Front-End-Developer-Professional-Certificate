@@ -26,7 +26,7 @@ typora-copy-images-to: ./img
 
 ![Screenshot 2023-01-28 220326](img/Screenshot%202023-01-28%20220326.png)
 
-本人有该专项课程的所有资源(含视频及中英文字幕、代码等等)，可直接email<a href="mailto:ascendho@outlook.com">ascendho@outlook.com，仅收取一定的打包费用(支付宝口令红包)</a>
+本人有该专项课程的所有资源(含视频及中英文字幕、代码等等)，可直接email<a href="mailto:ascendho@outlook.com">me</a>，仅收取一定的打包费用(支付宝口令红包)
 
 
 
