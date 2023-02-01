@@ -1,3 +1,19 @@
+---
+typora-copy-images-to: ./..\..\img
+---
+
+### Box-model
+
+![Screenshot 2023-02-01 151820](../../img/Screenshot%202023-02-01%20151820.png)
+
+
+
+### Block vs Inline
+
+![Screenshot 2023-02-01 151904](../../img/Screenshot%202023-02-01%20151904.png)
+
+
+
 ### Element with Class Selector
 
 ```html
