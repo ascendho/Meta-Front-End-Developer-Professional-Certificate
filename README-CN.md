@@ -20,9 +20,7 @@ typora-copy-images-to: ./img
 
 - Week1: <a href="https://github.com/ascendho/Meta-Front-End-Developer-Professional-Certificate/tree/master/C1-Introduction to Front-End Development/Week1- Get started with web development">Get started with web development</a> (完成)
 - Week2: <a href="https://github.com/ascendho/Meta-Front-End-Developer-Professional-Certificate/tree/master/C1-Introduction%20to%20Front-End%20Development/Week2%20-%20Introduction-to-html-and-css">Introduction-to-html-and-css</a> (完成)
-- Week3: <a href="">UI-frameworks</a>
-
-
+- Week3: <a href="https://github.com/ascendho/Meta-Front-End-Developer-Professional-Certificate/tree/master/C1-Introduction%20to%20Front-End%20Development/Week3%20-%20UI-frameworks">UI-frameworks</a>
 
 
 
@@ -30,7 +28,7 @@ typora-copy-images-to: ./img
 
 ![Screenshot 2023-01-28 220326](img/Screenshot%202023-01-28%20220326.png)
 
-本人有该专项课程的所有资源(含视频及中英文字幕、代码等等)，可直接<a href="mailto:ascendho@outlook.com">email</a>，仅收取一定的打包费用
+本人有该专项课程的所有资源(含视频及中英文字幕、代码等等)，可直接<a href="mailto:ascendho@outlook.com">email</a>
 
 
 
