@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2ee2d8d6-7b34-4140-a72e-318bf08c548b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../Week1- Get started with web development/exercises/.idea/examine_the_page.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week1- Get started with web development/exercises/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week1- Get started with web development/exercises/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week1- Get started with web development/exercises/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week1- Get started with web development/exercises/bootstrap.bundle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week1- Get started with web development/exercises/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week1- Get started with web development/exercises/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week1- Get started with web development/exercises/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week1- Get started with web development/resources/03_http-examples_instructions.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week1- Get started with web development/resources/05_other-internet-protocols_instructions.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week1- Get started with web development/resources/07_additional-resources_instructions.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week1- Get started with web development/resources/07_knowledge-check-the-web-and-the-internet_quiz.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week1- Get started with web development/resources/09_exercise-examine-a-web-page_instructions.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week1- Get started with web development/resources/10_self-review-examine-the-page_quiz.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week1- Get started with web development/resources/11_exercise-edit-a-website-using-a-browser-developer-tools_instructions.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week1- Get started with web development/resources/17_knowledge-check-core-internet-technologies_quiz.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week1- Get started with web development/resources/19_module-quiz-get-started-with-web-development_exam.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week1- Get started with web development/resources/20_additional-resources_instructions.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week2 - Introduction-to-html-and-css/resources/01_create-and-style-a-webpage_instructions--[koudaizy.com].html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week2 - Introduction-to-html-and-css/resources/02_different-types-of-selectors_instructions.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week2 - Introduction-to-html-and-css/resources/02_module-quiz-introduction-to-html-and-css_exam.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week2 - Introduction-to-html-and-css/resources/03_creating-an-html-document_instructions.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week2 - Introduction-to-html-and-css/resources/03_text-and-color-in-css_instructions.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week2 - Introduction-to-html-and-css/resources/04_simple-html-tags_instructions.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week2 - Introduction-to-html-and-css/resources/06_alignment-basics_instructions.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week2 - Introduction-to-html-and-css/resources/07_knowledge-check-css-basics_quiz--[koudaizy.com].html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week2 - Introduction-to-html-and-css/resources/08_styling-a-page_instructions.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week2 - Introduction-to-html-and-css/resources/09_additional-resources_instructions.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week2 - Introduction-to-html-and-css/resources/11_knowledge-check-getting-started-with-html_quiz.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week2 - Introduction-to-html-and-css/resources/12_additional-resources_instructions.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../resources/03_bootstrap_instructions.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../resources/07_self-review-working-with-bootstrap-grid_quiz.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../resources/09_self-review-working-with-bootstrap-components_quiz.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../resources/10_using-bootstrap-documentation_instructions.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../resources/11_other-css-frameworks-and-libraries_instructions.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../resources/12_knowledge-check-introduction-to-ui-frameworks-and-libraries_quiz.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../resources/13_additional-resources_instructions.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Lecture/Introduction.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Lecture/videos/Week1ofC1/01_how-the-internet-works.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Lecture/videos/Week1ofC1/01_introduction-to-internet-protocols.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Lecture/videos/Week1ofC1/01_introduction-to-the-program.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Lecture/videos/Week1ofC1/02_introduction-to-http.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Lecture/videos/Week1ofC1/02_introduction-to-the-course.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Lecture/videos/Week1ofC1/02_what-is-a-web-server-and-how-does-it-work.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Lecture/videos/Week1ofC1/03_front-end-back-end-and-full-stack-developer-roles.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Lecture/videos/Week1ofC1/03_what-are-websites-and-webpages.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Lecture/videos/Week1ofC1/04_a-day-in-the-life-of-a-front-end-developer.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Lecture/videos/Week1ofC1/04_intro-to-html-css-and-javascript.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Lecture/videos/Week1ofC1/04_what-is-a-web-browser-and-how-does-it-work.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Lecture/videos/Week1ofC1/05_web-hosting.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Lecture/videos/Week1ofC1/06_webpages-websites-and-web-apps.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Lecture/videos/Week1ofC1/07_capstone-project-demo-little-lemon-website.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Lecture/videos/Week1ofC1/08_developer-tools--[koudaizy.com].mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Lecture/videos/Week1ofC1/12_frameworks-and-libraries--[koudaizy.com].mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Lecture/videos/Week1ofC1/13_apis-and-services.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Lecture/videos/Week1ofC1/14_what-is-a-an-ide.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Lecture/videos/Week1ofC1/18_module-summary-get-started-with-web-development.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Lecture/videos/Week2ofC1/01_selecting-and-styling.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Lecture/videos/Week2ofC1/01_what-is-hyper-text-markup-language.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Lecture/videos/Week2ofC1/02_html-documents.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Lecture/videos/Week2ofC1/03_module-summary-introduction-to-html-and-css.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Lecture/videos/Week2ofC1/04_box-model-introduction.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Lecture/videos/Week2ofC1/05_document-flow-block-vs-inline.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Lecture/videos/Week2ofC1/05_linking-documents.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Lecture/videos/Week2ofC1/06_adding-images-to-a-webpage-with-html.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Lecture/videos/Week2ofC1/07_use-html-to-work-with-data-in-tables.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Lecture/videos/Week2ofC1/08_what-are-forms.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Lecture/videos/Week2ofC1/09_introduction-to-the-dom.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Lecture/videos/Week2ofC1/10_web-accessibility.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Lecture/videos/Week3ofC1/01_working-with-libraries.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Lecture/videos/Week3ofC1/02_introduction-to-responsive-design.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Lecture/videos/Week3ofC1/04_getting-started-with-bootstrap.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Lecture/videos/Week3ofC1/05_using-bootstrap-styles.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Lecture/videos/Week3ofC1/06_bootstrap-grid.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Lecture/videos/Week3ofC1/08_bootstrap-components.mp4" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2LU12vMVdlJJkdgVWuNcxM41ADx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2ee2d8d6-7b34-4140-a72e-318bf08c548b" name="Changes" comment="" />
+      <created>1675910646945</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675910646945</updated>
+      <workItem from="1675910648498" duration="1359000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
